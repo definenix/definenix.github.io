@@ -7,7 +7,7 @@ html, body {
     background-image: url('./jesus.png');
     background-position-y: 0px;
     overflow: hidden;
-    animation: eye-fuckery 0.09s infinite linear;
+    animation: eye-fuckery 5.0s infinite linear;
     box-shadow: 0 0 600px 50px rgba(0,0,0,0.5) inset;
 }
 
@@ -15,10 +15,12 @@ html, body {
     0% {
         background-position-x: 0px;
         background-position-y: 0px;
+        background-position-z: 3px;
     }
     100% {
-        background-position-x: 1px;
+        background-position-x: 0px;
         background-position-y: 3px;
+        background-position-z: 3px;
     }
 }
 
