@@ -254,6 +254,7 @@ a {
   .people2,
   .people3,
   .hero-text {
-    background-size: auto;
+    background-size: fixed
+    ;
   }
 }
