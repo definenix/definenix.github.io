@@ -20,7 +20,7 @@ new Vue({
           name: "LEViT∆TE - Drowning [EVE Re-Imagination]",
           artist: "LEViT∆TE, EVE",
           cover: "artwork/drowning.png",
-          source: "master/Levitate - Drowning (EVE Re-Imagination).wav",
+          source: "master/Levitate - Drowning (EVE re-imagination).mp3",
           url: "https://www.youtube.com/watch?v=x7WDjFYlzdw",
           favorited: false
         },
